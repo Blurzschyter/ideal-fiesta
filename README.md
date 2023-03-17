@@ -20,8 +20,8 @@ Find the App Useful? [You can always buy me a coffee](https://www.buymeacoffee.c
 
 - create <b>client</b> folder
 - open terminal
+- npx create-react-app project-directory
 - cd client
-- npx create-react-app <project-directory>
 - npm start
 - set editor/browser side by side
 - copy/paste assets from complete project
